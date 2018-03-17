@@ -1,1 +1,1 @@
-web: gunicorn soma:run
+web: gunicorn run:soma
